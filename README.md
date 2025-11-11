@@ -66,10 +66,15 @@ Model and results saved for easy deployment or analysis
 
 📈 Model Performance 
 Metric	Score
+
 Accuracy	0.504
+
 Precision	0.489
+
 Recall	0.998
+
 F1 Score	0.656
+
 ROC-AUC	0.727
 
 <img width="468" height="396" alt="download" src="https://github.com/user-attachments/assets/72813d0f-e82f-4b18-94b8-7b64ec8ba64f" />
